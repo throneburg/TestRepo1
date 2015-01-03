@@ -1,1 +1,2 @@
 this is my file
+ADDED LINE in 'branch1'
